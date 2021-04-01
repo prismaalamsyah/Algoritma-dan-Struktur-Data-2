@@ -25,7 +25,7 @@ public class matrix3x3 {
             }
             System.out.println();
         }
-        System.out.println("Prisma Alamsyah");
+        identitas.prisma(args);
     }
     
 }
