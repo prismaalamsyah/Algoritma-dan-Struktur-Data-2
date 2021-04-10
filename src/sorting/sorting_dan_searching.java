@@ -42,12 +42,7 @@ public class sorting_dan_searching {
         int cari = input.nextInt();
         int ketemu = 0;
         
-        System.out.println("Isi Data A Adalah : ");
-            for (int i = 0; i<B.length; i++){
-                System.out.print(B[i] + " ");
-            }
-        System.out.println("");
-        System.out.println("");
+        System.out.print("");
         for (int i = 0; i<B.length; i++){
             if (B[i] == cari){
                 ketemu = 1;
