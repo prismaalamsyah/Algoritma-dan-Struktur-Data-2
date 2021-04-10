@@ -31,12 +31,8 @@ public class sequential {
                 System.out.println("Data " + key + " Berada di Indeks ke-" +i);
                 break;
             }
-            else
-            System.out.print("Data Yang Dicari Tidak Ditemukan");
-            break;
         }
-            
         System.out.println("\n");
         identitas.prisma(args);
-    }    
+    }
 }
